@@ -10,6 +10,8 @@ Dus voor de eerste les zul je een branch aantreffen met de naam _les01_.
 Om optimaal gebruik te kunnen maken van repo's op github.com dien je Git Bash te installeren (alleen voor Windows). Dit installeert een Linux gelijkende commandline omgeving op je systeem. Dit vereenvoudigd het gebruik van commandline commando's, zoals die voor <span style="color: cyan;">*git*</span>.  
   
 Je kunt Git Bash downloaden van:    https://git-scm.com/downloads  
+![Image of GitBash](https://res.cloudinary.com/vishnupadmanabhan/image/upload/v1491753329/git/original.jpg)  
+
   
 In deze repo vind je ook het bestand **git_basic_manual.pdf**, dit is een basis handleiding voor <span style="color: cyan;">*git*</span>.  
 Neem deze vooral door!  
