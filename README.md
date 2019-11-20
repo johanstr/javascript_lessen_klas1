@@ -25,8 +25,11 @@ Je moet de repo niet downloaden als een ZIP.
 ### Wat je <span style="color: green;">*_WEL_*</span> moet doen
 1. Eerste keer  
     Clone de repo in de rootmap van je lokale webserver.  
-    Maak je gebruik van XAMPP dan is dit waarschijnlijk <span style="color: #EC407A;">*c:\xampp\htdocs*</span>  
+    Maak je gebruik van XAMPP dan is dit waarschijnlijk <span style="color: #EC407A;">*c:\xampp\htdocs*</span> 
+    ![Rootmap of XAMPP](http://www.mytoptutorials.com/php/wp-content/uploads/2013/07/htdocs.png)  
+
     Maak je gebruik van WAMPP dan is dit waarschijnlijk <span style="color: #EC407A;">*c:\wampp\www*</span>  
+    ![Rootmap of WAMP](https://hsnyc.co/wp-content/uploads/2015/03/wamp-server-files-in-www.png)
       
     De commando die je dan in bash intikt is:  
       
