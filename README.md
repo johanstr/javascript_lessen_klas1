@@ -2,8 +2,7 @@
 
 ## Inleiding
 In deze repo kun je alle bronbestanden vinden van de lessen rondom JavaScript.  
-Voor iedere les wordt een nieuwe *branch* aangemaakt met de naam _les*XX*_ (waarbij XX staat voor een volgnummer van de les).  
-Dus voor de eerste les zul je een branch aantreffen met de naam _les01_.  
+
 
 ## Gebruik van de repo
 ### Voorbereidingen
@@ -34,7 +33,7 @@ Je moet de repo niet downloaden als een ZIP.
     De commando die je dan in bash intikt is:  
       
     ```bash
-    git clone https://github.com/johanstr/javascript_lessen_klas1 <eigen naam voor de map waarin alles moet komen>
+    git clone https://github.com/johanstr/bke-1920 <eigen naam voor de map waarin alles moet komen>
     ```  
       
 2. Bijhouden van updates  
